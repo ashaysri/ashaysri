@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashay20
+- 👋 Hi, I’m Ashay Srivastava, Associate Engineer at Nagarro
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning microservices
 <!-- - 💞️ I’m looking to collaborate on ... -->
