@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashay Srivastava, Associate Engineer at Nagarro
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning microservices
+- 🌱 I’m currently learning svelte and dsa
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me - 📬 ashaysrivastava20@gmail.com
 
