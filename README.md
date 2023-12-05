@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ashay Srivastava, Associate Engineer at Nagarro
+- 👋 Hi, I’m Ashay Srivastava, Engineer at Nagarro
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning svelte and dsa
 <!-- - 💞️ I’m looking to collaborate on ... -->
